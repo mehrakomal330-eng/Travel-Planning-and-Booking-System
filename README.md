@@ -1,4 +1,3 @@
-# Travel-Planning-and-Booking-System
 # Travel Planning and Booking System
 
 ## Project Overview
